@@ -1,2 +1,2 @@
-# ej2-angular-treegrid-samples
+# ej2-angular-treegrid-Test
 TreeGrid control demo 
